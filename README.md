@@ -32,7 +32,11 @@ npm i react-router-dom
 
 ## step3: rest api state management with react-query 
 
-
+## step4: three.js
+```shell
+npm install three
+npm install -D @types/three
+```
 
 
 ## callback hook
