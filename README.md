@@ -1,3 +1,5 @@
+## step1: bootstrap
+
 ```shell
 npx create-react-app tennis-3d-app-react --template typescript
 
@@ -21,6 +23,16 @@ npx tailwindcss init -p
 
 # state management
 ```
+
+## step2: routing with React Router
+
+```shell
+npm i react-router-dom
+```
+
+## step3: rest api state management with react-query 
+
+
 
 
 ## callback hook
